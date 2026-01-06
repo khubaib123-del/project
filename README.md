@@ -24,11 +24,6 @@ It allows managing students and teachers data and finding the top student.
 3. **Teacher** (Derived class)
    - Attributes: `subject`, `salary`
    - Functions: `setTeacherData()`, `displayTeacher()`
-
-## How to Run
-
-1. Compile the code:
-```bash
 g++ main.cpp -o SchoolManagement
 ./SchoolManagement
 
